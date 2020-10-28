@@ -1,0 +1,10 @@
+1. Create a function to get # of cases and iterate it for get N and M. [Done]
+2. Request n and m in each iteration [Done]
+3. Define the function that will draw the square [Done]
+4. Get the right side [Done]
+5. Get the left side [Done]
+6. Get the down side [Done]
+7. Get the up side [Done]
+
+
+https://www.pixilart.com/draw # To draw the square 
